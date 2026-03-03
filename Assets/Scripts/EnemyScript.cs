@@ -35,7 +35,7 @@ public class EnemyScript : MonoBehaviour
     }
 
     
-    void FixedUpdate()
+    void Update()
     {
         Patrol();
         //Attack();
