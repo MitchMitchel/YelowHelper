@@ -15,6 +15,9 @@ public class EnemyMonitor : MonoBehaviour
     {
         monitorAnim = GetComponent<Animator>();
         monitorRig = GetComponent<Rigidbody2D>();
+
+        monitorAnim.SetBool("IsIdle", false);
+        monitorAnim.SetBool("IsWalk", true);
     }
 
     
@@ -24,7 +27,7 @@ public class EnemyMonitor : MonoBehaviour
     }
     void Patrol()
     {
-        Debug.Log("GO");
+        
         if (!IsWaiting)
         {
             if (patrolDestination == 0)
@@ -73,12 +76,12 @@ public class EnemyMonitor : MonoBehaviour
         IsWaiting = true;
 
         monitorAnim.SetBool("IsIdle", true);
-        monitorAnim.SetBool("IsRun", false);
+        monitorAnim.SetBool("IsWalk", false);
 
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(3);
 
         IsWaiting = false;
-        monitorAnim.SetBool("IsRun", true);
+        monitorAnim.SetBool("IsWalk", true);
         monitorAnim.SetBool("IsIdle", false);
     }
 }
