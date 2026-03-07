@@ -84,4 +84,11 @@ public class EnemyMonitor : MonoBehaviour
         monitorAnim.SetBool("IsWalk", true);
         monitorAnim.SetBool("IsIdle", false);
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            monitorAnim.SetTrigger("HitMonitor");
+        }
+    }
 }
