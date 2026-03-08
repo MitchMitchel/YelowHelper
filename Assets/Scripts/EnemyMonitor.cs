@@ -24,6 +24,7 @@ public class EnemyMonitor : MonoBehaviour
     void Update()
     {
         Patrol();
+        StopHit();
     }
     void Patrol()
     {
@@ -90,5 +91,9 @@ public class EnemyMonitor : MonoBehaviour
         {
             monitorAnim.SetTrigger("HitMonitor");
         }
+    }
+    void StopHit()
+    {
+        monitorAnim.ResetTrigger("HitMonitor");
     }
 }
