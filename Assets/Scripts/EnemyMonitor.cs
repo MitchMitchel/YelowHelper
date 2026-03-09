@@ -24,7 +24,7 @@ public class EnemyMonitor : MonoBehaviour
     void Update()
     {
         Patrol();
-        StopHit();
+        
     }
     void Patrol()
     {
@@ -92,8 +92,13 @@ public class EnemyMonitor : MonoBehaviour
             monitorAnim.SetTrigger("HitMonitor");
         }
     }
-    void StopHit()
+    private void OnCollisionExit2D(Collision2D collision)
     {
-        monitorAnim.ResetTrigger("HitMonitor");
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            monitorAnim.ResetTrigger("HitMonitor");
+        }
     }
+
+
 }

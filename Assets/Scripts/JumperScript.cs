@@ -4,11 +4,13 @@ using UnityEngine;
 public class JumperScript : MonoBehaviour
 {
     public PlayerScript player;
+    
+    
     private bool isUsed = false;
 
     void Start()
     {
-        
+       
     }
     
     
@@ -36,4 +38,5 @@ public class JumperScript : MonoBehaviour
             }
         }
     }
+   
 }

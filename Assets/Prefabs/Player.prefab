@@ -107,7 +107,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: e2f73d80e04f9e246ae20bfd0eb77618, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 8
@@ -195,7 +195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc1a262063646e346ac50009c8dc2e9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerScript
-  jumpPower: 5
+  jumpPower: 5.5
   attackCollider: {fileID: 2041603561210187442}
   hitCollider: {fileID: 0}
   body: {fileID: 2041603561210187442}
