@@ -1,11 +1,16 @@
 using UnityEngine;
+using TMPro;
 
 public class CheckPointSc : MonoBehaviour
 {
     Animator checkAnim;
+    public TMP_Text stageClearTitle;
+    Animator stageAnim;
+    
     void Start()
     {
         checkAnim = GetComponent<Animator>();
+        stageAnim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -19,5 +24,6 @@ public class CheckPointSc : MonoBehaviour
         {
             checkAnim.SetTrigger("CheckPoint");
         }
+        stageAnim.SetTrigger("StageClear");
     }
 }

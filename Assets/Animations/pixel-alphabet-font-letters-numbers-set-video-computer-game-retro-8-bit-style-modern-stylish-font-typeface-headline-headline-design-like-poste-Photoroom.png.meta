@@ -151,7 +151,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -162,7 +162,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -189,7 +189,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -222,7 +222,7 @@ TextureImporter:
         width: 278
         height: 201
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -236,15 +236,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_1
+      name: A
       rect:
         serializedVersion: 2
-        x: 35
-        y: 289
-        width: 48
-        height: 63
+        x: 36
+        y: 290
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -258,15 +258,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_2
+      name: B
       rect:
         serializedVersion: 2
-        x: 103
-        y: 289
-        width: 44
-        height: 63
+        x: 104
+        y: 290
+        width: 42
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -280,15 +280,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_3
+      name: C
       rect:
         serializedVersion: 2
-        x: 168
-        y: 289
-        width: 47
-        height: 63
+        x: 169
+        y: 290
+        width: 45
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -302,15 +302,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_4
+      name: D
       rect:
         serializedVersion: 2
-        x: 236
-        y: 289
-        width: 47
-        height: 63
+        x: 237
+        y: 290
+        width: 45
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -324,15 +324,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_5
+      name: E
       rect:
         serializedVersion: 2
-        x: 303
-        y: 289
-        width: 45
-        height: 63
+        x: 304
+        y: 290
+        width: 43
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -346,15 +346,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_6
+      name: F
       rect:
         serializedVersion: 2
-        x: 368
-        y: 289
-        width: 44
-        height: 63
+        x: 369
+        y: 290
+        width: 42
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -368,15 +368,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_7
+      name: G
       rect:
         serializedVersion: 2
-        x: 432
-        y: 289
-        width: 48
-        height: 63
+        x: 433
+        y: 290
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -390,15 +390,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_8
+      name: H
       rect:
         serializedVersion: 2
-        x: 500
-        y: 289
-        width: 48
-        height: 63
+        x: 501
+        y: 290
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -412,15 +412,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_9
+      name: I
       rect:
         serializedVersion: 2
-        x: 568
-        y: 289
-        width: 22
-        height: 63
+        x: 569
+        y: 290
+        width: 20
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -434,15 +434,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_10
+      name: J
       rect:
         serializedVersion: 2
-        x: 35
-        y: 203
-        width: 48
-        height: 63
+        x: 36
+        y: 204
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -456,15 +456,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_11
+      name: K
       rect:
         serializedVersion: 2
-        x: 100
-        y: 203
-        width: 47
-        height: 63
+        x: 101
+        y: 204
+        width: 45
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -478,15 +478,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_12
+      name: L
       rect:
         serializedVersion: 2
-        x: 164
-        y: 203
-        width: 40
-        height: 63
+        x: 165
+        y: 204
+        width: 38
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -500,15 +500,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_13
+      name: M
       rect:
         serializedVersion: 2
-        x: 221
-        y: 203
-        width: 48
-        height: 63
+        x: 222
+        y: 204
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -522,15 +522,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_14
+      name: N
       rect:
         serializedVersion: 2
-        x: 285
-        y: 203
-        width: 48
-        height: 63
+        x: 286
+        y: 204
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -544,7 +544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_15
+      name: O
       rect:
         serializedVersion: 2
         x: 349
@@ -552,7 +552,7 @@ TextureImporter:
         width: 48
         height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -566,15 +566,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_16
+      name: P
       rect:
         serializedVersion: 2
-        x: 413
-        y: 203
-        width: 48
-        height: 63
+        x: 414
+        y: 204
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -588,15 +588,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_17
+      name: Q
       rect:
         serializedVersion: 2
-        x: 478
-        y: 200
-        width: 48
-        height: 66
+        x: 479
+        y: 201
+        width: 46
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -610,15 +610,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_18
+      name: R
       rect:
         serializedVersion: 2
-        x: 542
-        y: 203
-        width: 48
-        height: 63
+        x: 543
+        y: 204
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -632,15 +632,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_19
+      name: S
       rect:
         serializedVersion: 2
-        x: 35
-        y: 117
-        width: 48
-        height: 63
+        x: 36
+        y: 118
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -654,15 +654,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_20
+      name: T
       rect:
         serializedVersion: 2
-        x: 94
-        y: 117
-        width: 44
-        height: 63
+        x: 95
+        y: 118
+        width: 42
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -676,15 +676,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_21
+      name: U
       rect:
         serializedVersion: 2
-        x: 148
-        y: 117
-        width: 48
-        height: 63
+        x: 149
+        y: 118
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -698,15 +698,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_22
+      name: V
       rect:
         serializedVersion: 2
-        x: 207
-        y: 117
-        width: 44
-        height: 63
+        x: 208
+        y: 118
+        width: 42
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -720,15 +720,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_23
+      name: W
       rect:
         serializedVersion: 2
-        x: 261
-        y: 117
-        width: 67
-        height: 63
+        x: 262
+        y: 118
+        width: 65
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -742,15 +742,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_24
+      name: X
       rect:
         serializedVersion: 2
-        x: 338
-        y: 117
-        width: 48
-        height: 63
+        x: 339
+        y: 118
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -764,15 +764,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_25
+      name: Y
       rect:
         serializedVersion: 2
-        x: 397
-        y: 117
-        width: 44
-        height: 63
+        x: 398
+        y: 118
+        width: 42
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -786,15 +786,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_26
+      name: Z
       rect:
         serializedVersion: 2
-        x: 451
-        y: 117
-        width: 48
-        height: 63
+        x: 452
+        y: 118
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -808,15 +808,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_27
+      name: '!'
       rect:
         serializedVersion: 2
-        x: 510
-        y: 117
-        width: 22
-        height: 63
+        x: 512
+        y: 118
+        width: 20
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -830,15 +830,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_28
+      name: question
       rect:
         serializedVersion: 2
-        x: 542
-        y: 117
-        width: 48
-        height: 63
+        x: 543
+        y: 118
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -852,15 +852,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_29
+      name: 0
       rect:
         serializedVersion: 2
-        x: 35
-        y: 31
-        width: 48
-        height: 63
+        x: 36
+        y: 32
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -874,15 +874,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_30
+      name: 1
       rect:
         serializedVersion: 2
-        x: 94
-        y: 31
-        width: 29
-        height: 63
+        x: 95
+        y: 32
+        width: 27
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -896,15 +896,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_31
+      name: 2
       rect:
         serializedVersion: 2
-        x: 134
-        y: 31
-        width: 47
-        height: 63
+        x: 135
+        y: 32
+        width: 45
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -918,15 +918,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_32
+      name: 3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 31
-        width: 48
-        height: 63
+        x: 193
+        y: 32
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -940,15 +940,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_33
+      name: 4
       rect:
         serializedVersion: 2
-        x: 250
-        y: 31
-        width: 48
-        height: 63
+        x: 251
+        y: 32
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -962,15 +962,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_34
+      name: 5
       rect:
         serializedVersion: 2
-        x: 309
-        y: 31
-        width: 48
-        height: 63
+        x: 310
+        y: 32
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -984,15 +984,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_35
+      name: 6
       rect:
         serializedVersion: 2
-        x: 367
-        y: 31
-        width: 48
-        height: 63
+        x: 368
+        y: 32
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1006,15 +1006,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_36
+      name: 7
       rect:
         serializedVersion: 2
-        x: 426
-        y: 31
-        width: 47
-        height: 63
+        x: 427
+        y: 32
+        width: 45
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1028,15 +1028,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_37
+      name: 8
       rect:
         serializedVersion: 2
-        x: 484
-        y: 31
-        width: 48
-        height: 63
+        x: 485
+        y: 32
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1050,15 +1050,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_38
+      name: 9
       rect:
         serializedVersion: 2
-        x: 542
-        y: 31
-        width: 48
-        height: 63
+        x: 543
+        y: 32
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1075,7 +1075,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 264ffe96642a0a54d9f9be38542094ab
     internalID: 0
     vertices: []
     indices: 
@@ -1085,45 +1085,45 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      '!': 7759342824887785626
+      0: 425755113759685946
+      1: 3217210386607029086
+      2: -7342540063290348
+      3: 4876598522661755499
+      4: -6444906990536463874
+      5: -1093354813616963773
+      6: 7275837708595516040
+      7: 8140609607971082811
+      8: -8786842059108592125
+      9: 8934265200365277699
+      A: -4457735100434243935
+      B: 7042886631640794828
+      C: -3254037266734842050
+      D: -1796883214019314537
+      E: -5457165463664210169
+      F: 98211711529887225
+      G: 8129009550335999666
+      H: 8038749593715954497
+      I: 5218681104178235924
+      J: -3481405067433330700
+      K: 2476411518147487299
+      L: 4616114078783880204
+      M: 7016262523780462721
+      N: -4200818659197426946
+      O: -5192613382840025167
+      P: 6275389034248450727
+      Q: -8611189958542554339
+      R: -8798579355351910497
+      S: 6807525236282898947
+      T: 6957029356702610663
+      U: 2173028742637472554
+      V: 4184093452264616685
+      W: 2662858288784263542
+      X: -2161210512521042306
+      Y: -6102224495484954988
+      Z: 6751589138918346654
       pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_0: -6710665895371900453
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_1: -4457735100434243935
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_10: -3481405067433330700
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_11: 2476411518147487299
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_12: 4616114078783880204
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_13: 7016262523780462721
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_14: -4200818659197426946
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_15: -5192613382840025167
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_16: 6275389034248450727
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_17: -8611189958542554339
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_18: -8798579355351910497
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_19: 6807525236282898947
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_2: 7042886631640794828
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_20: 6957029356702610663
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_21: 2173028742637472554
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_22: 4184093452264616685
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_23: 2662858288784263542
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_24: -2161210512521042306
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_25: -6102224495484954988
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_26: 6751589138918346654
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_27: 7759342824887785626
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_28: -3384510870589455223
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_29: 425755113759685946
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_3: -3254037266734842050
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_30: 3217210386607029086
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_31: -7342540063290348
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_32: 4876598522661755499
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_33: -6444906990536463874
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_34: -1093354813616963773
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_35: 7275837708595516040
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_36: 8140609607971082811
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_37: -8786842059108592125
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_38: 8934265200365277699
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_4: -1796883214019314537
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_5: -5457165463664210169
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_6: 98211711529887225
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_7: 8129009550335999666
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_8: 8038749593715954497
-      pixel-alphabet-font-letters-numbers-set-video-computer-game-retro-8-bit-style-modern-stylish-font-typeface-headline-headline-design-like-poste-Photoroom_9: 5218681104178235924
+      question: -3384510870589455223
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
