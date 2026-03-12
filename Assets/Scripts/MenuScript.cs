@@ -12,19 +12,21 @@ public class MenuScript : MonoBehaviour
     //[SerializeField] Transform waitPoint;
     public float speed = 3f;
     
+
     Animator playAnim;
     Animator helperAnim;
     Rigidbody2D helperRb;
 
     private void Start()
     {
+        
         // 1. Проверяем Кнопку
         if (play != null)
         {
             playAnim = play.GetComponentInChildren<Animator>();
             if (playAnim == null) Debug.LogWarning("Аниматор на кнопке Play не найден!");
         }
-
+        
         // 2. Проверяем Хелпера
         if (helper != null)
         {
