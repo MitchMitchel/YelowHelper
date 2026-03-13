@@ -84,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 6877413779154280431, guid: b33eab8ea2dca434488071670139445d, type: 3}
+  m_Sprite: {fileID: -5465840575609006351, guid: 4c90b79c2d521a946b93d1ad51ccfe8d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -165,5 +165,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6366450299074f44983a5bfe6b17600, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CheckPointSc
+  checkAnim: {fileID: 3899823014499148654}
   stageClearTitle: {fileID: 0}
   stageAnim: {fileID: 0}

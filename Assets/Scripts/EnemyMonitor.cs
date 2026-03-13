@@ -4,7 +4,7 @@ using UnityEngine;
 public class EnemyMonitor : MonoBehaviour
 {
     Animator monitorAnim;
-    SpriteRenderer animSprite;
+    
     Rigidbody2D monitorRig;
     [SerializeField] Transform[] wayPoints;
     [SerializeField] float speed = 1f;

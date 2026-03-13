@@ -1,5 +1,7 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class CheckPointSc : MonoBehaviour
 {
@@ -24,8 +26,16 @@ public class CheckPointSc : MonoBehaviour
         {
             checkAnim.SetTrigger("CheckPoint");
             stageAnim.SetTrigger("StageClear");
+
+            StartCoroutine(SceneController());
         }
 
 
+    }
+    IEnumerator SceneController()
+    {
+        yield return new WaitForSeconds(3f);
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex + 1);
     }
 }
