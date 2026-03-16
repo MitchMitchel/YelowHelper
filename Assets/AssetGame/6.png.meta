@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4c90b79c2d521a946b93d1ad51ccfe8d
+guid: 964afe2caf1a67d4d80f0eb207a08ff6
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -289,10 +289,10 @@ TextureImporter:
       name: 6_18
       rect:
         serializedVersion: 2
-        x: 290
+        x: 307
         y: 0
-        width: 37
-        height: 48
+        width: 10
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,11 +307,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 6_0
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf830e4f113ddf44a9c2961d29f922a
+      internalID: 3465286685962602723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 0be909e26aca35f4bbb0eafe31d01d93
+    spriteID: 49748f2906b0d36449e960b929d788bc
     internalID: 0
     vertices: []
     indices: 
